@@ -1,7 +1,8 @@
 ---
 description: "Use when: writing Playwright tests, debugging test failures, setting up test infrastructure, creating selectors, handling waits and assertions, running test suites, or implementing test automation best practices"
 name: "AIAgent for Playwright"
-configure tools: [execute, read, agent, edit, search, web, 'playwright/*']
+Configure Tools
+tools: [execute, read, agent, edit, search, web, 'playwright/*']
 user-invocable: true
 ---
 
